@@ -14,11 +14,11 @@ Github是基于Git进行代码托管服务的，不会Git，就不能真正发�
 ![](http://i.imgur.com/qaZHeSx.png)  
 ![](http://i.imgur.com/NPPJHhJ.png)  
 
-- 配置全局用户名：`git config –global user.name 你的用户名（一般是github用户名）`  
-![](http://i.imgur.com/Lr0N0Fx.png)  
+- 配置全局用户名：`git config –-global user.name 你的用户名（一般是github用户名）`  
+![](http://i.imgur.com/pSZ9Yyy.png)  
 
-- 配置全局邮箱：`git config –global user.email 你的邮箱（一般是github认证邮箱）`  
-![](http://i.imgur.com/fEirxJk.png)  
+- 配置全局邮箱：`git config –-global user.email 你的邮箱（一般是github认证邮箱）`  
+![](http://i.imgur.com/fhwUMAb.png)  
 
 - 生成SSH秘钥及相关配置  
 生成SSH秘钥：`ssh-keygen -t rsa -C 你的github认证邮箱`  

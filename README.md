@@ -10,7 +10,7 @@
 
 
 
-
+关于我
 ***  
 **欢迎关注我的简书专题：[Android技术漫谈](http://www.jianshu.com/collection/4833a48d1cb2)**  
 **欢迎关注我的微信公众号：Android技术漫谈**  
